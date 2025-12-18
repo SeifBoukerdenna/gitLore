@@ -1,0 +1,34 @@
+{
+  "generated_at": "2025-12-18T00:20:42Z",
+  "repo_counts": {
+    "total": 53,
+    "public": 31,
+    "private": 22,
+    "org_owned_or_member": 16,
+    "user_owned": 37
+  },
+  "size": {
+    "total_kb": 269589,
+    "human": "263.3 MB"
+  },
+  "languages": {
+    "CSS": 4,
+    "HTML": 2,
+    "JavaScript": 5,
+    "Jupyter Notebook": 1,
+    "Kotlin": 1,
+    "Python": 21,
+    "Rust": 1,
+    "Swift": 2,
+    "TypeScript": 14
+  },
+  "activity": {
+    "most_recent_update": "2025-12-02T16:36:02Z",
+    "oldest_update": "2022-03-20T04:01:23Z"
+  },
+  "enrichment": {
+    "repos_with_last_commit": 53,
+    "repos_with_stats_52w": 26,
+    "repos_stats_pending": 27
+  }
+}
